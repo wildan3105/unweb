@@ -1,0 +1,42 @@
+body {
+			background: #FBFBFB;
+			padding: 4px 0 0 0;
+			margin: 0;
+			font-size: 16px;
+			line-height: 1.5em;
+			font-family: Arial;
+		}
+		.wrapper {
+			width: 400px;
+			margin: 5px auto;
+			overflow: hidden;
+			height: 550px;
+			background: #fff;
+			padding: 30px;
+			border: solid 4px #C18E00;
+			padding-top: 2px;
+		}
+		.konten {
+			margin-top: -55px;
+			font-size: 17px;
+		}
+		.logo {
+			display: block;
+			margin: 0 auto;
+		}
+
+		ul a {
+			text-decoration: none;
+		}
+
+		ul a {
+			color: #e57300;
+		}	
+		ul a:hover {
+			color: black;
+		}
+
+p {
+	text-align: center;
+	font-weight: bold;
+}
